@@ -1,0 +1,178 @@
+Sporcu: Justin Verlander
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 97.5 m/s
+Atış Açısı: 12 derece
+Uçuş Süresi: 4.137 saniye
+
+Sporcu: Justin Verlander
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 97.5 m/s
+Atış Açısı: 12 derece
+Maksimum Yükseklik: 20.966 metre
+
+Sporcu: Justin Verlander
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 97.5 m/s
+Atış Açısı: 12 derece
+Menzil: 394.545 metre
+Menzil Hesabı: 4.137 saniye
+
+Sporcu: Clayton Kershaw
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 92.3 m/s
+Atış Açısı: 14 derece
+Uçuş Süresi: 4.557 saniye
+
+Sporcu: Clayton Kershaw
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 92.3 m/s
+Atış Açısı: 14 derece
+Maksimum Yükseklik: 25.439 metre
+
+Sporcu: Clayton Kershaw
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 92.3 m/s
+Atış Açısı: 12 derece
+Menzil: 353.582 metre
+Menzil Hesabı: 3.916 saniye
+
+Sporcu: Max Scherzer
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 94.7 m/s
+Atış Açısı: 10 derece
+Uçuş Süresi: 3.356 saniye
+
+Sporcu: Max Scherzer
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 94.7 m/s
+Atış Açısı: 10 derece
+Maksimum Yükseklik: 13.797 metre
+
+Sporcu: Max Scherzer
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 94.7 m/s
+Atış Açısı: 10 derece
+Menzil: 312.986 metre
+Menzil Hesabı: 3.356 saniye
+
+Sporcu: Gerrit Cole
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 99.2 m/s
+Atış Açısı: 11 derece
+Uçuş Süresi: 3.863 saniye
+
+Sporcu: Gerrit Cole
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 99.2 m/s
+Atış Açısı: 11 derece
+Maksimum Yükseklik: 18.280 metre
+
+Sporcu: Gerrit Cole
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 99.2 m/s
+Atış Açısı: 11 derece
+Menzil: 376.160 metre
+Menzil Hesabı: 3.863 saniye
+
+Sporcu: Jacob deGrom
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 100.5 m/s
+Atış Açısı: 13 derece
+Uçuş Süresi: 4.614 saniye
+
+Sporcu: Jacob deGrom
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 100.5 m/s
+Atış Açısı: 13 derece
+Maksimum Yükseklik: 26.077 metre
+
+Sporcu: Jacob deGrom
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 100.5 m/s
+Atış Açısı: 13 derece
+Menzil: 451.802 metre
+Menzil Hesabı: 4.614 saniye
+
+Sporcu: Jacob deGrom
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 100.5 m/s
+Atış Açısı: 13 derece
+Menzil: 451.802 metre
+Menzil Hesabı: 4.614 saniye
+
+Sporcu: Shane Bieber
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 95.8 m/s
+Atış Açısı: 10 derece
+Uçuş Süresi: 3.395 saniye
+
+Sporcu: Shane Bieber
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 95.8 m/s
+Atış Açısı: 10 derece
+Maksimum Yükseklik: 14.119 metre
+
+Sporcu: Shane Bieber
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 95.8 m/s
+Atış Açısı: 10 derece
+Menzil: 320.300 metre
+Menzil Hesabı: 3.395 saniye
+
+Sporcu: Walker Buehler
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 97.0 m/s
+Atış Açısı: 12 derece
+Uçuş Süresi: 4.116 saniye
+
+Sporcu: Walker Buehler
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 97.0 m/s
+Atış Açısı: 12 derece
+Maksimum Yükseklik: 20.751 metre
+
+Sporcu: Walker Buehler
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 97.0 m/s
+Atış Açısı: 12 derece
+Menzil: 390.509 metre
+Menzil Hesabı: 4.116 saniye
+
+Sporcu: Yu Darvish
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 96.3 m/s
+Atış Açısı: 14 derece
+Uçuş Süresi: 4.755 saniye
+
+Sporcu: Yu Darvish
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 96.3 m/s
+Atış Açısı: 14 derece
+Maksimum Yükseklik: 27.692 metre
+
+Sporcu: Yu Darvish
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 96.3 m/s
+Atış Açısı: 14 derece
+Menzil: 444.259 metre
+Menzil Hesabı: 4.755 saniye
+
+Sporcu: Onur Baran
+Uçuş Türü: Uçuş Süresi
+Başlangıç Hızı: 1000000.0 m/s
+Atış Açısı: 90 derece
+Uçuş Süresi: 204081.633 saniye
+
+Sporcu: Onur Baran
+Uçuş Türü: Maksimum Yükseklik Hesabı
+Başlangıç Hızı: 1000000.0 m/s
+Atış Açısı: 90 derece
+Maksimum Yükseklik: 51020408163.265 metre
+
+Sporcu: Onur Baran
+Uçuş Türü: Menzil Hesabı
+Başlangıç Hızı: 1000000.0 m/s
+Atış Açısı: 90 derece
+Menzil: 0.000 metre
+Menzil Hesabı: 204081.633 saniye
+
