@@ -1,3 +1,5 @@
+This program was developed step by step, with each stage building upon the previous one. As the code was developed, additional features and functionalities were added, leading up to the final version provided below. The goal of this approach is to allow users to see and learn from the errors and improvements made along the way, helping them to develop their own skills while using the program. By following the progression, users can understand the development process and grow from identifying and solving issues in real-time.
+
 # Baseball Ball Flight Calculation Program
 
 This program helps the user calculate the flight time, range, and maximum height of a baseball. Additionally, it allows saving the calculated data and displaying a 3D graph.
