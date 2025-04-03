@@ -1,33 +1,38 @@
-# Baseball Topu Uçuş Hesaplama Programı
+# Baseball Ball Flight Calculation Program
 
-Bu program, kullanıcının verilen bir baseball topunun uçuş süresini, menzilini ve maksimum yüksekliğini hesaplamasına yardımcı olur. Ayrıca, hesaplanan verileri kaydedebilir ve 3D bir grafik gösterebilir.
+This program helps the user calculate the flight time, range, and maximum height of a baseball. Additionally, it allows saving the calculated data and displaying a 3D graph.
 
-## Başlangıç
+## Getting Started
 
-Bu talimatlar, projeyi yerel bir geliştirme ortamınızda nasıl çalıştıracağınızı açıklar.
+These instructions explain how to run the project in your local development environment.
 
-### Gereksinimler
+### Requirements
 
-Bu projenin çalıştırılması için aşağıdaki Python kütüphanelerine ihtiyacınız vardır:
+The following Python libraries are required to run this project:
 
 - Python 3.x
-- math kütüphanesi (standart kütüphane içinde bulunur)
+
+- math library (included in the standard library)
+
 - matplotlib
+
 - numpy
+
 - mpl_toolkits.mplot3d
 
 
-#### Kullanım
+#### Usage
 
-Programı başlattığınızda, aşağıdaki seçeneklerden birini seçebilirsiniz:
 
-1. Uçuş Süresini Hesapla
-2. Menzili Hesapla
-3. Maksimum Yüksekliği Hesapla
-4. 3D Grafik Göster
-5. Çıkış
+When you start the program, you can choose one of the following options:
 
-Her seçeneğin talimatlarını izleyerek istediğiniz hesaplamaları yapabilirsiniz.
+1.Calculate Flight Time
+2.Calculate Range
+3.Calculate Maximum Height
+4.Display 3D Graph
+5.Exit
+
+Follow the instructions for each option to perform the desired calculations.
 
 
 
